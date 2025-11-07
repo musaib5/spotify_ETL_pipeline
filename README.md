@@ -1,22 +1,7 @@
 # 🎧 spotify_ETL_pipeline  
 **Transform Listening Data Into Actionable Insights Instantly**
 
-<p align="center">
-  <a href="https://github.com/musaibs/spotify_ETL_pipeline"><img alt="Stars" src="https://img.shields.io/github/stars/musaibs/spotify_ETL_pipeline?style=social"></a>
-  <a href="https://github.com/musaibs/spotify_ETL_pipeline/fork"><img alt="Forks" src="https://img.shields.io/github/forks/musaibs/spotify_ETL_pipeline?style=social"></a>
-</p>
 
-<p align="center">
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/musaibs/spotify_ETL_pipeline">
-  <img alt="Open Issues" src="https://img.shields.io/github/issues/musaibs/spotify_ETL_pipeline">
-  <img alt="Open PRs" src="https://img.shields.io/github/issues-pr/musaibs/spotify_ETL_pipeline">
-  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/musaibs/spotify_ETL_pipeline">
-  <img alt="License" src="https://img.shields.io/github/license/musaibs/spotify_ETL_pipeline">
-</p>
-
-<p align="center">
-  <img alt="Language Count" src="https://img.shields.io/github/languages/count/musaibs/spotify_ETL_pipeline">
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/musaibs/spotify_ETL_pipeline">
   <img alt="Python %" src="https://img.shields.io/badge/python-100%25-blue">
 </p>
 
