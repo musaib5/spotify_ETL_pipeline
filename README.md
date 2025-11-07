@@ -42,12 +42,6 @@ The **spotify_ETL_pipeline** automates the extraction, validation, transformatio
 
 ## 🧩 Tech Stack & Languages
 
-### **Languages**
-<p>
-
-  <img alt="Language Count" src="https://img.shields.io/github/languages/count/musaibs/spotify_ETL_pipeline">
-</p>
-
 **Primary:** Python (100%)
 
 ### **Core Libraries**
