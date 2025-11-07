@@ -70,10 +70,10 @@ The **spotify_ETL_pipeline** automates the extraction, validation, transformatio
 ### 1️⃣ Clone the repository  
 ```bash
 git clone https://github.com/musaibs/spotify_ETL_pipeline
-2️⃣ Navigate to the project directory
+### 2️⃣ Navigate to the project directory
 cd spotify_ETL_pipeline
 
-3️⃣ Install dependencies
+### 3️⃣ Install dependencies
 pip install -r requirements.txt
 
 📦 Usage
