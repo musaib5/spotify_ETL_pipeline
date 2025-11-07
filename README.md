@@ -44,7 +44,7 @@ The **spotify_ETL_pipeline** automates the extraction, validation, transformatio
 
 ### **Languages**
 <p>
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/musaibs/spotify_ETL_pipeline">
+
   <img alt="Language Count" src="https://img.shields.io/github/languages/count/musaibs/spotify_ETL_pipeline">
 </p>
 
