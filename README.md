@@ -68,20 +68,21 @@ The **spotify_ETL_pipeline** automates the extraction, validation, transformatio
 ## 🛠 Installation
 
 ### 1️⃣ Clone the repository  
-```bash
-git clone https://github.com/musaibs/spotify_ETL_pipeline
-### 2️⃣ Navigate to the project directory
-cd spotify_ETL_pipeline
+    git clone https://github.com/musaibs/spotify_ETL_pipeline
 
-### 3️⃣ Install dependencies
-pip install -r requirements.txt
+### 2️⃣ Navigate to the project directory  
+    cd spotify_ETL_pipeline
 
-📦 Usage
-# Example: Run ETL pipeline
-python etl/run.py --since "2023-07-01" --db sqlite:///spotify.db
+### 3️⃣ Install dependencies  
+    pip install -r requirements.txt
 
+---
+
+## 📦 Usage
+
+### Example: Run ETL pipeline  
+    python etl/run.py --since "2023-07-01" --db sqlite:///spotify.db
 
 (Replace with actual instructions once ready.)
 
-🧪 Testing
-pytest -q
+---
