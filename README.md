@@ -77,12 +77,6 @@ The **spotify_ETL_pipeline** automates the extraction, validation, transformatio
     pip install -r requirements.txt
 
 ---
-
-## 📦 Usage
-
-### Example: Run ETL pipeline  
-    python etl/run.py --since "2023-07-01" --db sqlite:///spotify.db
-
-(Replace with actual instructions once ready.)
+[![DeepWiki Documentation](https://deepwiki.com/assets/badges/deepwiki-badge-blue.svg)](https://deepwiki.com/musaib5/spotify_ETL_pipeline)
 
 ---
