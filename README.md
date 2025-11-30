@@ -77,10 +77,12 @@ The **spotify_ETL_pipeline** automates the extraction, validation, transformatio
     pip install -r requirements.txt
 
 ---
-## 📘 Detailed Documentation
+## 📚 Project Documentation (DeepWiki)
 
-Click the banner below to view the full DeepWiki documentation:
+This project is fully documented using **DeepWiki**, which provides  
+an AI-generated wiki with architecture overview, ETL flow explanation,  
+module breakdowns, and code summaries.
 
-[![DeepWiki Banner](https://deepwiki.com/assets/images/deepwiki-banner.png)](https://deepwiki.com/musaib5/spotify_ETL_pipeline)
+🔗 **DeepWiki Page:** https://deepwiki.com/musaib5/spotify_ETL_pipeline
 
 ---
